@@ -75,7 +75,7 @@ INSERT INTO fabricante (nombre, pais_origen, telefono_contacto) VALUES
                                                                     ('TechFrontiers', 'Dinamarca', '901-234-5679'),
                                                                     ('Innovatech', 'Suiza', '012-345-6790');
 
--- Entradas para la tabla vendedor
+-- Entradas para la tabla vendedor--
 INSERT INTO vendedor (nombre, email, comision) VALUES
                                                    ('Juan Pérez', 'juan.perez@email.com', 5.00),
                                                    ('Ana López', 'ana.lopez@email.com', 6.00),
